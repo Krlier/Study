@@ -1,0 +1,60 @@
+////////////////////////////////////////////////
+//
+// Exemplo de arquivo de declaração de contadores
+// Conta módulo Tabuleiro marcado
+//
+///////////////////////////////////////////////
+
+    TAB_CriaBaralho_A
+    TAB_CriaBaralho_B
+    TAB_CriaBaralho_C
+    TAB_CriaBaralho_D
+    TAB_CriaBaralho_E
+    TAB_CriaBaralho_F
+    TAB_CriaBaralho_G
+    TAB_CriaBaralho_H
+    TAB_CriaBaralho_I
+    TAB_CriaBaralho_J
+    TAB_CriaBaralho_K
+    TAB_CriaBaralho_L
+    TAB_CriaTabuleiro_A
+    TAB_CriaTabuleiro_B
+    TAB_CriaTabuleiro_C
+    TAB_CriaTabuleiro_D
+    TAB_CriaTabuleiro_E
+    TAB_CriaTabuleiro_F
+    TAB_CriaTabuleiro_G
+    TAB_ArrumaTabuleiro_A
+    TAB_ArrumaTabuleiro_B
+    TAB_ArrumaTabuleiro_C
+    TAB_ArrumaTabuleiro_D
+    TAB_ArrumaTabuleiro_E
+    TAB_ArrumaTabuleiro_F
+    TAB_ArrumaTabuleiro_G
+    TAB_ContaEspacosVazios_A
+    TAB_ContaEspacosVazios_B
+    TAB_ContaEspacosVazios_C
+    TAB_ContaEspacosVazios_D
+    TAB_ContaEspacosVazios_E
+    TAB_ContaEspacosVazios_F
+    TAB_ContaEspacosVazios_G
+    TAB_ContaEspacosVazios_H
+    TAB_MoveCartas_A
+    TAB_MoveCartas_B
+    TAB_MoveCartas_C
+    TAB_MoveCartas_D
+    TAB_MoveCartas_E
+    TAB_MoveCartas_F
+    TAB_MoveCartas_G
+    TAB_MoveCartas_H
+    TAB_MoveCartas_I
+    TAB_MoveCartas_J
+    TAB_MoveCartas_K
+    TAB_MoveCartas_L
+    TAB_MoveCartas_M
+    TAB_MoveCartas_N
+    TAB_MoveCartas_O
+    TAB_MoveCartas_P
+    TAB_MoveCartas_Q
+    TAB_MoveCartas_R
+    TAB_MoveCartas_S
