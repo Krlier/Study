@@ -4,6 +4,14 @@ The [SQL file] in this projects creates and populates a database to illustrate a
 
 Note: The `Partida` table in [ER-Diagram][1] is in yellow due to the fact that it's time dependent, which there is no proper way of illustrating  with the ER model.
 
+## ER - Diagram
+
+<img src="Images/ER-Diagram.png" allign="center"/>
+
+## Tables Diagram
+
+<img src="Images/Tables-Diagram.png" allign="center"/>
+
 [SQL file]: db.sql
 [1]: Images/ER-Diagram.png
 [2]: Images/Tables-Diagram.png
