@@ -13,13 +13,18 @@ The main goal of this project was to create a [PID controller] using [Arduino]. 
 * [T1][1] - [converte_utf.c][3] is a program in C to convert UTF-8 files into UTF-16 and back, UTF-16 into UTF-8.
 * [T2][2] - [Compila.c][4] is a program in C to compile a simple made up programming language
 
+## Inf1301 - Modular Programming 📓
+
+In this [class][7] my group and I were tasked with creating a Freecell game.
+
 ## Inf1019 - Computer Systems 📓
 
 * [T1][5] - Routine in C to simulate how a processor handles different incoming processes.
 * [T2][6] - Routine in C made to simulate a page table.
 
-## Inf1301 - Modular Programming 📓
-In this [class][7] my group and I were tasked with creating a Freecell game.
+## Inf1383 - Databases 1 📓
+
+The goal of this [class][8] was to create and populate a Postgres database to illustrate a real life situation.
 
 [1]: https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T1
 [2]: https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T2
@@ -28,6 +33,7 @@ In this [class][7] my group and I were tasked with creating a Freecell game.
 [5]: https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T1
 [6]: https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T2
 [7]: https://github.com/Krlier/Puc-Rio/tree/master/inf1301
+[8]: https://github.com/Krlier/Puc-Rio/tree/master/inf1383
 [PID controller]: https://en.wikipedia.org/wiki/PID_controller
 [Arduino]: https://www.arduino.cc/
 [README]: https://github.com/Krlier/Puc-Rio/blob/master/README.md
