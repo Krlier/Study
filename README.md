@@ -19,14 +19,15 @@ The main goal of this project was to create a [PID controller] using [Arduino]. 
 * [T2][6] - Routine in C made to simulate a page table.
 
 ## Inf1301 - Modular Programming 📓
-In this class my group and I were tasked with creating a Freecell game.
+In this [class][7] my group and I were tasked with creating a Freecell game.
 
 [1]: https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T1
 [2]: https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T2
 [3]: https://github.com/Krlier/Puc-Rio/blob/master/inf1018/T1/converte_utf.c
 [4]: https://github.com/Krlier/Puc-Rio/blob/master/inf1018/T2/Compila.c
-[5]:https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T1
-[6]:https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T2
+[5]: https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T1
+[6]: https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T2
+[7]: https://github.com/Krlier/Puc-Rio/tree/master/inf1301
 [PID controller]: https://en.wikipedia.org/wiki/PID_controller
 [Arduino]: https://www.arduino.cc/
 [README]: https://github.com/Krlier/Puc-Rio/blob/master/README.md
