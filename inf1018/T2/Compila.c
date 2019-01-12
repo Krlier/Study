@@ -1,5 +1,4 @@
-  /* Daniel Carlier 1511739 3WA
-     Jorge Pumar Dodsworth 1212572 3WB*/
+  /* Daniel Carlier */
 
   typedef int (*funcp) (int x);
 
