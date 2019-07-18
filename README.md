@@ -4,7 +4,7 @@ My projects for Computer Engineering classes. Each folder is named after the dis
 
 ----
 
-## Eng1000 - Introduction to Engineering 📓
+## Eng1000 - Introduction Engineering 📓
 
 The main goal of this project was to create a [PID controller] using [Arduino]. In my case, I created a program to handle temperature changes by increasing and decreasing the voltage on a computer fan in order to cool a house prototype.
 
@@ -25,6 +25,10 @@ In this [class][7] my group and I were tasked with creating a Freecell game.
 ## Inf1383 - Databases 1 📓
 
 The goal of this [class][8] was to create and populate a Postgres database to illustrate a real life situation.
+
+## Inf1636 - Object Oriented Programming 📓
+
+This classe's goal was to teach object oriented programming. To better illustrate how a project can be done using object oriented programming, I was tasked with recreating the popular [Monopoly (Banco Imobiliário)](https://pt.wikipedia.org/wiki/Banco_Imobili%C3%A1rio) game.
 
 [1]: https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T1
 [2]: https://github.com/Krlier/Puc-Rio/tree/master/inf1019/T2
