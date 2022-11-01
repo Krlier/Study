@@ -1,4 +1,4 @@
-# Puc-Rio
+# Study
 
 My projects for Computer Engineering classes. Each folder is named after the disciple's code, with it's full name available in the [README] file. <img src="Images/githubparrot.gif" width="35" height="35"/>
 
