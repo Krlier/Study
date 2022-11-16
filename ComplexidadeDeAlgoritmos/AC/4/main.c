@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#define n 100
-
 // Considere um problema com as seguintes características:
 // Entrada: uma palavra P com 3 caracteres e um texto T com n caracteres;
 // Saída: SIM se alguma permutação da palavra P aparece no texto T e NÃO, caso contrário.
@@ -14,6 +10,10 @@
 // 1,0,2
 // 2,0,1
 // 0,2,1
+
+#include <stdio.h>
+#include <stdlib.h>
+#define n 100
 
 int main(void)
 {

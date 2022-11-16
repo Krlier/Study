@@ -17,6 +17,7 @@ int main(void)
     int arrSize = 8;
     struct ATIVIDADE ativ[8];
 
+    // A hora inicial e final das atividades foram retiradas do slide da aula.
     strcpy(ativ[0].nome, "Atividade0");
     ativ[0].horaIni = 9;
     ativ[0].horaFim = 12;

@@ -1,11 +1,12 @@
-// No pior caso, temos que o algoritmo abaixo será de complexidade O(n2) visto que
-// foi necessário aninhar dois laços para se alcançar o resultado esperado. Ambos
-// os laços iteram sobre o número total de elementos do vetor de tamanho "n".
-
 // Seja um vetor V com n números inteiros. Projete um algoritmo usando Força Bruta e outro
 // usando a estratégia de Transformar e Conquistar para retornar o número que aparece mais vezes
 // em V. Em caso de empate, o algoritmo pode devolver qualquer um dos números empatados. Ao
 // final, analise a complexidade de pior caso de ambos os algoritmos em função de n.
+
+// No pior caso, temos que o algoritmo abaixo será de complexidade O(n2) visto que
+// foi necessário aninhar dois laços para se alcançar o resultado esperado. Ambos
+// os laços iteram sobre o número total de elementos do vetor de tamanho "n".
+
 #include <stdio.h>
 
 int main(void)

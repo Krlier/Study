@@ -6,12 +6,15 @@
 // elementos e sua soma é 0. Ao final, analise a complexidade de pior caso do algoritmo proposto
 // em função de n.
 
+// A complexidade do algoritmo abaixo é O(n2), dado que existem dois laços aninhados
+// que devem repetir n vezes cada.
+
 #include <stdio.h>
 
 int main(void)
 {
-    // int V[6] = {-2, 11, -4, 13, -5, 2};
-    int V[6] = {1, -3, 4, -2, -1, 6};
+    int V[6] = {-2, 11, -4, 13, -5, 2};
+    // int V[6] = {1, -3, 4, -2, -1, 6};
     int arrSize = 6;
     int accumulatedTotalSum = 0;
     int currentSum = 0;
@@ -28,12 +31,10 @@ int main(void)
             {
                 for (int j = lastEntryIndex + 1; j < (arrSize - i); j++)
                 {
-                    int bla = V[j];
                     printf("%i ", V[j]);
                 }
             }
             lastEntryIndex = i;
-            int opa = V[i];
             printf("%i ", V[i]);
         }
 
